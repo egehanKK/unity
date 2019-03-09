@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dino
+  - bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floor
+  - character
+  - dino
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backgorund
+    uniqueID: 1318517739
+    locked: 0
+  - name: tiles
+    uniqueID: 2391448579
+    locked: 0
+  - name: character
+    uniqueID: 1580251045
+    locked: 0
+  - name: waterfall
+    uniqueID: 3664534585
+    locked: 0

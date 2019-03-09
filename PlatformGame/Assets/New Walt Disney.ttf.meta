@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3fcf22cfd39934efd8e3b82eacaf9372
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: New Walt Disney Font
+  fontNames:
+  - New Walt Disney Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e8a525b28dcf44895ac471eebb1fca80, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

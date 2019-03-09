@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/leveller/MainScene.unity
+    guid: aab6e2fa588e041a993480add058f595
+  - enabled: 1
+    path: Assets/Scenes/leveller/levels.unity
+    guid: 1349b23e61f7f468e93ab807d6993c7e
+  - enabled: 1
+    path: Assets/Scenes/leveller/level1.unity
+    guid: 93cbd9fa3ac00934b9caa0e69a942cfa
+  - enabled: 1
+    path: Assets/Scenes/leveller/level2.unity
+    guid: 98a0620c535a04119911d01891eca3d7
+  - enabled: 1
+    path: Assets/Scenes/leveller/level3.unity
+    guid: dc20d1d45f67a40b7b3258945204de29
+  - enabled: 1
+    path: Assets/Scenes/leveller/level4.unity
+    guid: 1a87d3e68063a4202ad74e0f04ae60f5
+  - enabled: 1
+    path: Assets/Scenes/leveller/level5.unity
+    guid: fdca8c89b7e6c481fb1f6fe6aeebc904
+  - enabled: 1
+    path: Assets/Scenes/leveller/level6.unity
+    guid: aec583db0e6074977b266cb6d8dbee13
+  - enabled: 1
+    path: Assets/Scenes/leveller/level7.unity
+    guid: 9dfa9b0df186647049ce9d46a0c75355
+  - enabled: 1
+    path: Assets/Scenes/leveller/level8.unity
+    guid: 6ed726e31b0c04c0a94d0a7f14eba339
+  - enabled: 1
+    path: Assets/Scenes/leveller/level9.unity
+    guid: 914f902e61f024d04ae828c4866ca151
+  - enabled: 1
+    path: Assets/Scenes/leveller/level10.unity
+    guid: 932e6186f0a9441e8bc532d58d4373ea
+  m_configObjects: {}
