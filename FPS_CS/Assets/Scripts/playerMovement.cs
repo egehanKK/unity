@@ -13,10 +13,22 @@ public class playerMovement : NetworkBehaviour
     float y_mouse;
     public Camera eyeCam;
     float upDownRotation;
+    
+    string id;
+    public override void OnStartClient(){
+        id = GetComponent<NetworkIdentity>().netId.ToString();
+        Debug.Log(id);
+        gameInfo.allPlayers.Add(id,this.gameObject);
+        Debug.Log(gameInfo.allPlayers[id].name);
+
+    }
     void Start()
     {
         if(!isLocalPlayer){
             eyeCam.enabled = false;
+        }
+        else{
+            GameObject.FindGameObjectWithTag("mainCamera").SetActive(false); 
         }
         
     }
