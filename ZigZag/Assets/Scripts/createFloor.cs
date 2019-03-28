@@ -8,7 +8,6 @@ public class createFloor : MonoBehaviour
     public GameObject lastFloor;
     void Start()
     {
-        for(int i = 20;i>0;i--){
             create_floor();
         }
         
